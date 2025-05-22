@@ -82,6 +82,39 @@ Early-2023 campaigns illustrate that precise audience targeting can unlock outsi
   <img width="450" alt="Screenshot 2025-05-21 at 5 08 28 PM" src="https://github.com/user-attachments/assets/987669e4-5605-45d6-8432-2198e463e3c1" />
 </p>
 
+- ### Underpreforming Markets and Campaigns
+  - By combinging impressions, engagement, and delivered-traffic efficiency into single score index, we see what Georgia, Alaska, Nevafa, and Iowa emerge as budget drains high spend but low returns. Flagging these states lets executives redirect spendings towards regions with demonstrably better returns.
+  - Accorss all campaigns, Audio and parts of Connected TV delivered the lowest traffic per impression (~0.0005). This data suggests that these formats are not resonating with our buyers and should move to allocate spending elsewhere rather than core spend.
+  - High traffic cities like New York, Los Angeles, and Atlanta generate large delivered traffic volumes, yet strategy splits are misaligned—Certified outperforms New Car on cost-per-result in New York, for example. Balancing strategy allocation within these high-exposure markets represents the fastest path to incremental gains.
+ 
+<table>
+  <tr>
+    <td align="center">
+      <img width="700" alt="Screenshot 2025-05-21 at 4 37 07 PM" src="https://github.com/user-attachments/assets/2765bc2e-b115-447a-8079-d40f7031db6c" />
+    </td>
+    <td align="center">
+      <img width="550" alt="Screenshot 2025-05-21 at 4 37 25 PM" src="https://github.com/user-attachments/assets/9edd73ad-c9f4-4a6d-816f-0bbf116f414b" />
+    </td>
+  </tr>
+</table>
+
+## Assumptions
+- Partial-baseline effect in early 2023 (+98 % DT spike). The platform’s campaign-tracking tags were rolled out mid-Q4 2022; the first fully instrumented quarter is Q1 2023. The large YoY jump therefore reflects both true lift and the addition of previously untracked traffic.
+
+- Efficiency metrics remain meaningful at very small decimals. A DT-per-impression value of 0.01 indicates one qualified visit per 100 ad impressions—a level considered healthy for automotive campaigns given typical CPMs and conversion funnels.
+
+- Uniform weighting in composite “waste score.” Engagement (actions per impression) and efficiency (DT per impression) were weighted equally when ranking states. This simplifies prioritization but may under- or over-state waste in edge cases where management favors volume or CPA differently.
+
+## Recommendations
+- Double investment in the consistently top-performing combinations—Banner Ads with Retargeting, “Certified | Video,” and “New Car | Banner Ads.”  Pause or severely limit Audio across all strategies; deploy A/B tests on Connected-TV only after refreshed creative proves incremental lift.
+
+- Set quarterly thresholds (e.g., minimum delivered-traffic per 1 k impressions).  When impressions outpace traffic, automated bid caps or budget pauses should trigger, preventing the drift seen after Q3 2023 and the fall-off in Q3 2024.
+
+- Freeze or cut budgets in GA, AK, NV, and IA until targeted pilots show improvement.  Shift freed dollars into high-volume, high-efficiency DMAs such as New York (Certified) and mid-tier states where “Certified | Video” has already demonstrated strong returns.
+
+- Rotate creative and update audience lists every two quarters to combat saturation and fatigue—mirroring conditions that caused performance declines in late 2023 and 2024.  Pair this with a live volume-vs-efficiency dashboard so planners can spot emerging waste and re-optimize in real time.
+
+
 
 
 
