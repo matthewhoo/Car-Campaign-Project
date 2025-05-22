@@ -21,8 +21,14 @@ The dataset consists of ~5.4 Million records with the following key collumns:
 - day_of_week, date, year_month, state
 - impressions, actions, dt, anomaly_outlier
 
-<img width="1007" alt="Screenshot 2025-05-22 at 2 28 51 PM" src="https://github.com/user-attachments/assets/4353614e-5905-40dc-b804-90650ccf2104" />
-<img width="543" alt="Screenshot 2025-05-22 at 2 29 52 PM" src="https://github.com/user-attachments/assets/f6965180-ed8b-41d2-acf6-64aa825c6bad" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4353614e-5905-40dc-b804-90650ccf2104" width="850" alt="Screenshot 2025-05-22 at 2 28 51 PM">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f6965180-ed8b-41d2-acf6-64aa825c6bad" width="750" alt="Screenshot 2025-05-22 at 2 29 52 PM">
+</p>
+
 
 ## Executive Summary
 This car campaign analysis of approximately 5.4 million ad serving records (2022-2024) shows that campaigns are most profitable when broad reach formats are paired with precise retargeting. Banner-Ad retargeting and Certified-Video executions produce the highest deliverd traffic (user access website) and conversion efficiency, white Audio and poorly targeted Connected-TV spend generate minimal returns. Quarter over quarter trends reveal that the increase of impressions stopped translating into traffic after mid 2023, signalling a ROI shift. Geographic scoring further pinpoints poor preformance in GA, AK, NV, and IA, whereas New York and Los Angeles are able to convert strongly when strategy channel fit is optimised. Redirecting budget towards mid to top-performing channels, applying quarterly benchmarks, and reallocating spend away from underperforming states is expected to address dirft and improve overall campaign ROI in the next fiscal cycle.
@@ -33,27 +39,48 @@ This car campaign analysis of approximately 5.4 million ad serving records (2022
   - Video performance has remained static despite overall increase in marketing volume. The lack of growth in traffic contribution form this channel suggests diminshing marginal returns, pointing to a need for a creative change or strategy.
   - Connected TV has contributed moderately and consistently, offering steady buy limited value. While not a top preformer, its reliability may make it suitable for targeted or complementary campaigns, particularly where long form engagement is desired.
   - Audio campaigns continue to underperform, with minimal traffic contribution acorss all quarters. Given limited impact over multiple years, these campaigns may require strategic repositioning or could be deemphasized in favor of other higher yielding channels.
-<img width="1204" alt="Screenshot 2025-05-22 at 2 57 22 PM" src="https://github.com/user-attachments/assets/aa2bb1df-fb10-4738-81b6-8e85562b7293" />
+<p align="center">
+  <img width="800" alt="Screenshot 2025-05-22 at 2 57 22 PM" src="https://github.com/user-attachments/assets/aa2bb1df-fb10-4738-81b6-8e85562b7293" />
+</p>
 
 - ### ROI Drift: Impressions vs. Delivered Traffic
   - The year-over-year analysis highlights how early campaign success was driven by strategic precision, but as scale increased, eficiency declined. In Q1 2023, delivered traffic surged up to 98% despite only minial increases in impressions and actions, indicating that early campaign efforts were highly targeted and effective in converting reach into meaning outcomes or traffic.
   - However, as campaigns scaled into late 2023, the relationship between spend and outcome began to weaken. Large increases in impressions yielded minimal gains in delivered traffic, signaling the ROI drift. Engagement improved during this periodm but conversion (measured w/ DT) dailed to keep up to pace, suggesting that even with more users interacting, fewer were taking valuable actions.
   - By Q3 2024, efficiency had declined further: impressions and actions rose, but delivered traffic fell. The data strongly indicated that more exposure does not guarentee more value, and without active campaign governance, performance can erode even as spend increases.
-  - To protect efficiency long term, campaign strategy should shift towards maintaining conversion quality over maximizing reach. 
-<img width="1183" alt="Screenshot 2025-05-22 at 3 10 52 PM" src="https://github.com/user-attachments/assets/281fe48a-c8f3-469c-9756-f41bbe052436" />
-<img width="847" alt="Screenshot 2025-05-21 at 4 29 12 PM" src="https://github.com/user-attachments/assets/2d569215-7279-4443-8fd2-89fd90ceb112" />
+  - To protect efficiency long term, campaign strategy should shift towards maintaining conversion quality over maximizing reach.
+  
+<p align="center">
+  <img width="1000" alt="Screenshot 2025-05-22 at 3 10 52 PM" src="https://github.com/user-attachments/assets/281fe48a-c8f3-469c-9756-f41bbe052436" />
+</p>
+<p align="center">
+<img width="800" alt="Screenshot 2025-05-21 at 4 29 12 PM" src="https://github.com/user-attachments/assets/2d569215-7279-4443-8fd2-89fd90ceb112" />
+</p>
 
 - ### ROI Trends Over Time
 Early-2023 campaigns illustrate that precise audience targeting can unlock outsized returns: a 97 % lift in delivered traffic was achieved on only ~16 % more impressions, confirming that incremental spend is most valuable when it reaches high-intent users. As budgets expanded through Q3-2023, that relationship unraveled—traffic flat-lined while exposure kept rising, signalling ROI drift and the diminishing marginal value of additional reach. A brief rebound in Q2-2024, when impressions contracted yet traffic advanced 22 %, shows that removing low-quality inventory can immediately restore efficiency. By Q3-2024 all core metrics softened, indicating saturation and creative fatigue. The pattern underscores a key operational insight: sustained performance depends less on volume growth than on continuous pruning of under-performing segments and timely refresh of targeting and creative.
-![Screenshot 2025-05-21 at 4 23 15 PM](https://github.com/user-attachments/assets/21e569a0-457c-4227-bd7f-6a9b428c7b5a)
-<img width="770" alt="Screenshot 2025-05-21 at 4 23 00 PM" src="https://github.com/user-attachments/assets/c7fd13f2-5409-4cf2-9193-94758e1ec879" />
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/21e569a0-457c-4227-bd7f-6a9b428c7b5a" width="600" alt="Screenshot 1"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/c7fd13f2-5409-4cf2-9193-94758e1ec879" width="375" alt="Screenshot 2"/>
+    </td>
+  </tr>
+</table>
 
  - Across all top-performing campaigns, RETARGETING consistenly appears as the most effective tactic, regardless of channel. Campaigns that focused on re-engaging users previously exposed to the brand generated higher delivered traffic and stronger conversion, indicating that follow-ups play a critical role in campaign success.
  - The most effective combinations often involved Banner Ads or Video as the channel, paired with either Retargeting or CDP Custom Audiences.
  - Certified campaigns showed a slight edge in efficiency over New Car campaigns when paired with targeted tactics. This suggests that Certified buyers may respong more to personalized or trust building formats, while NEw Car strategies may require more attention to creative and messaging alignment.
  - The common pattern among high performing combinations is a balance between scale and targeting. Campaigns that achieved both high DT and strong DT per impression tend to combine broad reach channels with precise audience segmentation, reinforcing hybrid targeting strategies in marketing performance.
-<img width="1167" alt="Screenshot 2025-05-22 at 3 22 07 PM" src="https://github.com/user-attachments/assets/393516f4-ba56-465b-848d-8b08a84e36bd" />
-<img width="580" alt="Screenshot 2025-05-21 at 5 08 28 PM" src="https://github.com/user-attachments/assets/987669e4-5605-45d6-8432-2198e463e3c1" />
+
+<p align="center">
+  <img width="900" alt="Screenshot 2025-05-22 at 3 22 07 PM" src="https://github.com/user-attachments/assets/393516f4-ba56-465b-848d-8b08a84e36bd" />
+</p>
+<p align="center">
+  <img width="450" alt="Screenshot 2025-05-21 at 5 08 28 PM" src="https://github.com/user-attachments/assets/987669e4-5605-45d6-8432-2198e463e3c1" />
+</p>
 
 
 
